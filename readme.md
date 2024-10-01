@@ -37,7 +37,7 @@ To run this program, you can use Remix, an online Solidity IDE. Follow these ste
 3. Save the file with a `.sol` extension (e.g., `Functions and Errors.sol`).
 4. Copy and paste the following Solidity code into the file --> [FileLink](https://github.com/Anshuman161203/metacrafters_ETH-AVAX-PROOF_Project_Module_1/blob/main/Functions%20and%20Errors.sol)
 5. Click on the "Solidity Compiler" tab in the left-hand sidebar.
-- Ensure the "Compiler" option is set to "0.8.4" (or another compatible version).
+- Ensure the "Compiler" option is set to "0.8.26" (or another compatible version).
 - Click on the "Compile Functions and Errors.sol" button.
 6. Deploy the contract:
 - Click on the "Deploy & Run Transactions" tab in the left-hand sidebar.
