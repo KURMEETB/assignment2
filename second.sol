@@ -4,8 +4,8 @@ pragma solidity 0.8.9;
 contract CustomToken {
 
     // Public variables to store token details
-    string public coinName = "Sumanbhardwaj";
-    string public coinSymbol = "SB";
+    string public coinName = "kurmeetbishnoi";
+    string public coinSymbol = "KB";
     uint public supplyTotal = 0;
 
     // Mapping to store balances
